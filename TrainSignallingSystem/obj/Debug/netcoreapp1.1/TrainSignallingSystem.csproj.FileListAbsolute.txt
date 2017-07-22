@@ -1,0 +1,8 @@
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\TrainSignallingSystem\bin\Debug\netcoreapp1.1\TrainSignallingSystem.deps.json
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\TrainSignallingSystem\bin\Debug\netcoreapp1.1\TrainSignallingSystem.runtimeconfig.json
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\TrainSignallingSystem\bin\Debug\netcoreapp1.1\TrainSignallingSystem.runtimeconfig.dev.json
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\TrainSignallingSystem\bin\Debug\netcoreapp1.1\TrainSignallingSystem.dll
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\TrainSignallingSystem\bin\Debug\netcoreapp1.1\TrainSignallingSystem.pdb
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\TrainSignallingSystem\obj\Debug\netcoreapp1.1\TrainSignallingSystem.AssemblyInfo.cs
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\TrainSignallingSystem\obj\Debug\netcoreapp1.1\TrainSignallingSystem.dll
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\TrainSignallingSystem\obj\Debug\netcoreapp1.1\TrainSignallingSystem.pdb
