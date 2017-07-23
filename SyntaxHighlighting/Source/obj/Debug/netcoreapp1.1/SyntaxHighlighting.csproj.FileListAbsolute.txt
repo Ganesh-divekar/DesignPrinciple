@@ -1,0 +1,16 @@
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\bin\Debug\netcoreapp1.1\SyntaxHighlighting.deps.json
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\bin\Debug\netcoreapp1.1\SyntaxHighlighting.runtimeconfig.json
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\bin\Debug\netcoreapp1.1\SyntaxHighlighting.runtimeconfig.dev.json
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\bin\Debug\netcoreapp1.1\SyntaxHighlighting.dll
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\bin\Debug\netcoreapp1.1\SyntaxHighlighting.pdb
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\obj\Debug\netcoreapp1.1\SyntaxHighlighting.AssemblyInfo.cs
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\obj\Debug\netcoreapp1.1\SyntaxHighlighting.dll
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\obj\Debug\netcoreapp1.1\SyntaxHighlighting.pdb
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\Source\bin\Debug\netcoreapp1.1\SyntaxHighlighting.deps.json
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\Source\bin\Debug\netcoreapp1.1\SyntaxHighlighting.runtimeconfig.json
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\Source\bin\Debug\netcoreapp1.1\SyntaxHighlighting.runtimeconfig.dev.json
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\Source\bin\Debug\netcoreapp1.1\SyntaxHighlighting.dll
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\Source\bin\Debug\netcoreapp1.1\SyntaxHighlighting.pdb
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\Source\obj\Debug\netcoreapp1.1\SyntaxHighlighting.AssemblyInfo.cs
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\Source\obj\Debug\netcoreapp1.1\SyntaxHighlighting.dll
+C:\Users\xpanxion\Documents\GitHub\DesignPrinciple\SyntaxHighlighting\Source\obj\Debug\netcoreapp1.1\SyntaxHighlighting.pdb
