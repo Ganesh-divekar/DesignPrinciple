@@ -15,6 +15,8 @@ namespace SyntaxHighlighting
              KeywordHighlighter highlighter=new  KeywordHighlighter(toDecorateWith,inputKeywords) ;    
              string output= highlighter.HighlightKeyword(statementToSearchIn);
             Console.WriteLine(output);
+
+            
         }
     }
 }
